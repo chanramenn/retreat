@@ -44,9 +44,9 @@ export default function Contact() {
       icon: Phone,
       title: "Телефон",
       details: [
-        "+7 (916) 030-13-00",
-        "Звонки принимаются ежедневно",
-        "с 9:00 до 21:00"
+        "+7 (985) 000-75-77",
+        "Пишите нам в мессенджерах Whats'App, Telegtam, MAX",
+        ""
       ]
     },
     {

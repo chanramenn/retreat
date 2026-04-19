@@ -156,7 +156,7 @@ const About = () => {
                     <div className="relative z-10 h-full flex flex-col justify-between p-8 text-white">
                       <div>
                         <h3 className="text-3xl font-bold mb-2">Ретрит ДАРЫ АВГУСТА в Крыму</h3>
-                        <p className="text-xl mb-4">15-19 августа 2025 • 5 дней</p>
+                        <p className="text-xl mb-4">21-21 июня 2025 • 5 дней</p>
                         <p className="text-lg opacity-90">Интенсивная практика медитации осознанности в окружении крымских гор</p>
                       </div>
                       <div className="flex items-center justify-between">
@@ -188,11 +188,11 @@ const About = () => {
                     <div className="relative z-10 h-full flex flex-col justify-between p-8 text-white">
                       <div>
                         <h3 className="text-3xl font-bold mb-2">Ретрит в Загорянском</h3>
-                        <p className="text-xl mb-4">сентябрь 2025 • 1 день</p>
+                        <p className="text-xl mb-4">29.07-02.08 2026 • 5 дней</p>
                         <p className="text-lg opacity-90">Однодневный ретрит в Подмосковье - короткая, но эффективная перезагрузка</p>
                       </div>
                       <div className="flex items-center justify-between">
-                        <span className="text-3xl font-bold">7 700 ₽</span>
+                        <span className="text-3xl font-bold">22 000 ₽</span>
                         <div className="flex gap-4">
                           <Link to="/retreats/one-day-sea">
                             <Button className="bg-white/20 backdrop-blur-sm border-white text-white hover:bg-white hover:text-black">
